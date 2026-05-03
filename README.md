@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0a0a2e,70:00D4FF,100:6E40C9&height=200&section=header&text=Carlos%20E.%20Zapata%20B.&fontSize=44&fontColor=00D4FF&fontAlignY=40&desc=Psic%C3%B3logo%20%7C%20Investigador%20%7C%20PhD&descColor=C9D1D9&descSize=18&descAlignY=62&animation=twinkling" width="100%"/>
 
 <a href="https://github.com/CarlosZapataB123">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=680&lines=Psic%C3%B3logo+%7C+Investigador+%7C+Docente;Especialista+%7C+Mag%C3%ADster+%7C+PhD;Universidad+P%C3%BAblica+de+Navarra;Pamplona%2C+Navarra%2C+Espa%C3%B1a;Ciencia+aplicada+a+la+mente+humana" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=680&lines=Psic%C3%B3logo+%7C+Investigador+%7C+Docente;Especialista+%7C+Mag%C3%ADster+%7C+PhD;Universidad+P%C3%BAblica+de+Navarra;Pamplona%2C+Navarra%2C+Espa%C3%B1a;Ciencia+aplicada+a+la+Mente+Humana." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -85,16 +85,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=CarlosZapataB123&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=6E40C9&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=6E40C9&dates=8B949E" alt="streak stats" width="60%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📊 Actividad de Contribuciones
 
 <div align="center">
@@ -105,4 +95,4 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,60:00D4FF,100:0D1117&height=130&section=footer&animation=twinkling" width="100%"/>
+
