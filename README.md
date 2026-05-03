@@ -89,11 +89,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosZapataB123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6E40C9&text_color=C9D1D9&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosZapataB123&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" width="41%"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=CarlosZapataB123&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=6E40C9&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=6E40C9&dates=8B949E" alt="streak stats" width="60%"/>
 
 </div>
