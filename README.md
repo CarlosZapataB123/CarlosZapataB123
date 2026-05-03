@@ -110,23 +110,4 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Conecta conmigo
-
-<div align="center">
-
-| 🌐 Red | 🔗 Enlace |
-|:------:|:---------:|
-| 🔬 ORCID | [0009-0008-6435-0524](https://orcid.org/0009-0008-6435-0524) |
-| 💼 LinkedIn | [carloszapatab](https://linkedin.com/in/carloszapatab) |
-| 📧 Email | [caenzabo@gmail.com](mailto:caenzabo@gmail.com) |
-| 💻 GitHub | [CarlosZapataB123](https://github.com/CarlosZapataB123) |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,60:00D4FF,100:0D1117&height=130&section=footer&animation=twinkling" width="100%"/>
