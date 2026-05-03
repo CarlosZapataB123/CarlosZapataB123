@@ -21,24 +21,48 @@
 ## ⚡ Sobre mí
 
 ```python
+# ╔══════════════════════════════════════════════════════════╗
+# ║          RESEARCH SYSTEM  ·  BOOT SEQUENCE v3.0         ║
+# ╚══════════════════════════════════════════════════════════╝
+
 class Researcher:
+
     def __init__(self):
-        self.nombre       = "Carlos Enrique Zapata Bohórquez"
-        self.credenciales = ["Especialista", "Magíster", "PhD"]
-        self.roles        = ["Psicólogo", "Investigador", "Docente Universitario"]
-        self.institución  = "Universidad Pública de Navarra 🏛️"
-        self.ubicación    = "Pamplona, Navarra, España 🇪🇸"
-        self.orcid        = "https://orcid.org/0009-0008-6435-0524"
-        self.áreas        = ["Psicología Clínica", "Metodología de Investigación",
-                             "Análisis de Datos", "Neurociencia Cognitiva"]
-        self.herramientas = ["R", "Python", "SPSS", "LaTeX", "Zotero"]
+        self.name        = "Carlos Enrique Zapata Bohórquez"
+        self.credentials = "Esp. · Mg. · PhD  🎓"
+        self.role        = "Psicólogo · Investigador · Docente"
+        self.institution = "Universidad Pública de Navarra  🏛️"
+        self.location    = "Pamplona, Navarra, España  🇪🇸"
+        self.orcid       = "orcid.org/0009-0008-6435-0524"
 
-    def misión(self):
-        return "Transformar la investigación en conocimiento aplicado 🔬"
+        self.focus = [
+            "🧠  Psicología Clínica & Salud Mental",
+            "📊  Metodología & Análisis de Datos",
+            "🔬  Neurociencia Cognitiva",
+            "📚  Investigación Académica & Docencia",
+        ]
 
-yo = Researcher()
-print(yo.misión())
-# ► Transformar la investigación en conocimiento aplicado 🔬
+        self.stack = {
+            "stats"    : ["R", "SPSS", "Python"],
+            "writing"  : ["LaTeX", "Zotero", "Markdown"],
+            "workflow" : ["Git", "VS Code", "Jupyter"],
+        }
+
+    def status(self):
+        return {
+            "system"   : "🟢  Research Mode — ACTIVE",
+            "mission"  : "Transformar datos en conocimiento aplicado",
+            "seeking"  : "Colaboraciones · Publicaciones · Impacto real",
+        }
+
+# ── Initializing profile ──────────────────────────────────
+me = Researcher()
+for key, val in me.status().items():
+    print(f"  {key:<10} ►  {val}")
+
+#   system     ►  🟢  Research Mode — ACTIVE
+#   mission    ►  Transformar datos en conocimiento aplicado
+#   seeking    ►  Colaboraciones · Publicaciones · Impacto real
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
