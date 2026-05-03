@@ -89,26 +89,22 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=CarlosZapataB123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6E40C9&text_color=C9D1D9"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosZapataB123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CarlosZapataB123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6E40C9&text_color=C9D1D9&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosZapataB123&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" width="41%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosZapataB123&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=6E40C9&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=6E40C9&dates=8B949E" alt="streak stats" width="450"/>
+<img src="https://streak-stats.demolab.com?user=CarlosZapataB123&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=6E40C9&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=6E40C9&dates=8B949E" alt="streak stats" width="60%"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Actividad de Contribuciones
+## 📊 Actividad de Contribuciones
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CarlosZapataB123/CarlosZapataB123/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CarlosZapataB123/CarlosZapataB123/blob/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://github.com/CarlosZapataB123/CarlosZapataB123/blob/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosZapataB123&bg_color=0D1117&color=00D4FF&line=6E40C9&point=00D4FF&area=true&area_color=6E40C9&hide_border=true&theme=tokyo-night" width="100%" alt="Contribution Graph"/>
 
 </div>
 
