@@ -20,50 +20,44 @@
 
 ## ⚡ Sobre mí
 
-```python
-# ╔══════════════════════════════════════════════════════════╗
-# ║          RESEARCH SYSTEM  ·  BOOT SEQUENCE v3.0         ║
-# ╚══════════════════════════════════════════════════════════╝
+<div align="center">
 
-class Researcher:
+<table>
+  <tr>
+    <td><b>👤 Nombre</b></td>
+    <td>Carlos Enrique Zapata Bohórquez</td>
+    <td><b>🎓 Credenciales</b></td>
+    <td>Esp. · Mg. · PhD</td>
+  </tr>
+  <tr>
+    <td><b>🏛️ Institución</b></td>
+    <td>Universidad Pública de Navarra</td>
+    <td><b>📍 Ubicación</b></td>
+    <td>Pamplona, Navarra, España 🇪🇸</td>
+  </tr>
+  <tr>
+    <td><b>💼 Rol</b></td>
+    <td>Psicólogo · Investigador · Docente</td>
+    <td><b>🔬 ORCID</b></td>
+    <td><a href="https://orcid.org/0009-0008-6435-0524">0009-0008-6435-0524</a></td>
+  </tr>
+  <tr>
+    <td><b>🟢 Estado</b></td>
+    <td colspan="3"><i>Research Mode — ACTIVE &nbsp;·&nbsp; Abierto a colaboraciones y publicaciones</i></td>
+  </tr>
+</table>
 
-    def __init__(self):
-        self.name        = "Carlos Enrique Zapata Bohórquez"
-        self.credentials = "Esp. · Mg. · PhD  🎓"
-        self.role        = "Psicólogo · Investigador · Docente"
-        self.institution = "Universidad Pública de Navarra  🏛️"
-        self.location    = "Pamplona, Navarra, España  🇪🇸"
-        self.orcid       = "orcid.org/0009-0008-6435-0524"
+</div>
 
-        self.focus = [
-            "🧠  Psicología Clínica & Salud Mental",
-            "📊  Metodología & Análisis de Datos",
-            "🔬  Neurociencia Cognitiva",
-            "📚  Investigación Académica & Docencia",
-        ]
+<br/>
 
-        self.stack = {
-            "stats"    : ["R", "SPSS", "Python"],
-            "writing"  : ["LaTeX", "Zotero", "Markdown"],
-            "workflow" : ["Git", "VS Code", "Jupyter"],
-        }
+<div align="center">
 
-    def status(self):
-        return {
-            "system"   : "🟢  Research Mode — ACTIVE",
-            "mission"  : "Transformar datos en conocimiento aplicado",
-            "seeking"  : "Colaboraciones · Publicaciones · Impacto real",
-        }
+| 🧠 Psicología Clínica & Salud Mental | 📊 Metodología & Análisis de Datos |
+|:------------------------------------:|:-----------------------------------:|
+| 🔬 Neurociencia Cognitiva | 📚 Investigación Académica & Docencia |
 
-# ── Initializing profile ──────────────────────────────────
-me = Researcher()
-for key, val in me.status().items():
-    print(f"  {key:<10} ►  {val}")
-
-#   system     ►  🟢  Research Mode — ACTIVE
-#   mission    ►  Transformar datos en conocimiento aplicado
-#   seeking    ►  Colaboraciones · Publicaciones · Impacto real
-```
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
